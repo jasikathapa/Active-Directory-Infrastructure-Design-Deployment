@@ -40,14 +40,14 @@ This project is a self-built Active Directory lab designed to simulate a real-wo
 
 
 
-<!--
+
 ## ⚠️ Troubleshooting
 #### Issue 1: Trust Relationship Errors
 <img width="500" height="500" alt="AD broken" src="https://github.com/user-attachments/assets/f2d7a3e7-8e67-489f-95e4-a28df3a1dcda" />
 
 - broken secure channel between client and domain
 
-<!--
+
 <img width="1026" height="854" alt="oldname" src="https://github.com/user-attachments/assets/0a6f9f39-4397-4815-a8c5-fbed28872a14" />
 Reboot and hold f8 to enter boot menu
 select 'safe mode with networking'
@@ -66,3 +66,6 @@ Enter the old name and restart
 
 <img width="1045" height="983" alt="AD broken" src="https://github.com/user-attachments/assets/f2d7a3e7-8e67-489f-95e4-a28df3a1dcda" />
 
+## 🔗 Related Projects
+
+- 🔐 [Project 2 - Troubleshooting Lab](https://github.com/YOUR_USERNAME/PROJECT2_REPO)
