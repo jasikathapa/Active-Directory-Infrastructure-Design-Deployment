@@ -20,23 +20,39 @@ This project is a self-built Active Directory lab designed to simulate a real-wo
   
 ## 🎥 Video
 
+---
 
-#### Summary of Configuration
+## ⚙️ Project Steps
+
+#### 1️⃣ Active Directory Domain Setup
 - Installed Active Directory Domain Services (AD DS)
-- Promoted server to Domain Controller
-- Created domain: **MobileHub.local**
-- Configured DNS for domain resolution
-- Verified domain functionality for client join
+- Promoted Windows Server to Domain Controller
+- Created new domain: **MobileHub.local**
+- Configured DNS for domain name resolution
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e2a66200-6fc3-46c2-9d32-5c9874fb30be" />
 
-#### User Configuration
+#### 2️⃣ Active Directory Structure
+- Created Organizational Units (OUs):
+  - IT Department  
+  - HR Department  
+  - Sales Department  
+
+#### 3️⃣ User Configuration
 - Created domain user accounts
 - Assigned users to departmental structures (IT, HR, Sales)
 - Organised users within appropriate Organizational Units (OUs)
 
-#### Group Management
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f78c92f3-1bac-4c11-8f9b-614a0ad889c3" />
+
+#### 4️⃣ Client Domain Join
+- Joined Windows 11 client machine to the domain
+- Verified successful domain authentication
+- Tested login using domain user credentials
+
+#### 5️⃣  Group Management
 - Created security groups for access control (RBAC)
-- Created distribution groups for communication
 - Assigned users based on department roles
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/4de3cf9c-3143-4407-8e8a-28b64d90817d" />
 
 
 ## 🔗Next Project
