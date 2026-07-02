@@ -20,7 +20,7 @@ This project is a self-built Active Directory lab designed to simulate a real-wo
   
 ## 🎥 Video
 
-#### 👉 [Click here to watch](https://1drv.ms/f/c/6f9c3032e3dd4069/IgCd9x0H1zGMTp1e0k81C1P9Acv7jQkTTeLqBYUSneoOWb4?e=pbo7Ug)
+#### 👉 [Click here to watch](https://drive.google.com/file/d/1YPyGEtFHgGb7Y7yUdLrQknjziU37B0og/view?usp=drivesdk)
 
 ## ⚙️ Project Steps
 
